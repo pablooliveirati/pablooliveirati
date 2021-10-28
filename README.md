@@ -1,6 +1,6 @@
-Hi there , I'm Pablo!
+Hi there 👋, I'm Pablo!
 
-👋About Me:
+About Me:
 
 - 👀 I’m interested in new opportunities to develop my skills in DEV.
 - 🌱 I’m currently learning C#.NET | ASP.NET Core MVC | React.js | javascript | CSS | HTML.
