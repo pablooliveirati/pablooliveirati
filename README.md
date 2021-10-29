@@ -7,6 +7,10 @@ About Me:
 - My objective is to be a Full Stack developer.
 - 📫 How to reach me https://www.linkedin.com/in/pablo-luis-oliveira-de-almeida-77a724149/
 
+<!-- Tecnologias -->  
+
+<div style="display: inline_block">
+
 ### 🔨 Languages and Tools:
 
 <h3> Back-end </h3>
