@@ -11,6 +11,8 @@ About Me:
 <div style="display: inline_block">
 
 ### 🔨 Languages and Tools:
+ 
+ <div style="display: inline_block">
 
 <h3> Back-end </h3>
 
