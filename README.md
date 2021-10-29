@@ -7,6 +7,8 @@ About Me:
 - My objective is to be a Full Stack developer.
 - 📫 How to reach me https://bityli.com/Zzvl61
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablooliveirati&layout=compact&langs_count=7&theme=gotham"/>
+
 ### 🔨 Languages and Tools:
  
  <div style="display: inline_block">
