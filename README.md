@@ -10,9 +10,7 @@ About Me:
 
 ### 🔨 Languages and Tools:
  
- <<div style="display: inline_block">
-
-  
+ <div style="display: inline_block">
 
  <h3> Back-end </h3>
 
