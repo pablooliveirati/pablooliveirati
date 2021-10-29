@@ -5,7 +5,7 @@ About Me:
 - 🌱 I’m currently learning C#.NET | ASP.NET Core MVC | React.js | javascript | CSS | HTML.
 - 👀 I’m interested in new opportunities to develop my skills in DEV.
 - My objective is to be a Full Stack developer.
-- 📫 How to reach me https://www.linkedin.com/in/pablo-luis-oliveira-de-almeida-77a724149/
+- 📫 How to reach me https://bityli.com/Zzvl61
 
 
 ### 🔨 Languages and Tools:
