@@ -18,7 +18,7 @@ About Me:
 
  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
- <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"><hr>
+ <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"><hr>
   
 
  <h3> Front-end </h3>
