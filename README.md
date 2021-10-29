@@ -8,8 +8,6 @@ About Me:
 - 📫 How to reach me https://www.linkedin.com/in/pablo-luis-oliveira-de-almeida-77a724149/
 
 
-<div style="display: inline_block">
-
 ### 🔨 Languages and Tools:
  
  <div style="display: inline_block">
