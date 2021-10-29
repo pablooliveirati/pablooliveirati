@@ -7,7 +7,6 @@ About Me:
 - My objective is to be a Full Stack developer.
 - 📫 How to reach me https://bityli.com/Zzvl61
 
-
 ### 🔨 Languages and Tools:
  
  <div style="display: inline_block">
