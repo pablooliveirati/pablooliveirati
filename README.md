@@ -33,6 +33,13 @@ About Me:
  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
  <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"><br>
 
+ <h3> Visitantes </h3>  
+
+ <div>
+
+  <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=pablooliveirati&color=green" alt="alexsgross" /> <br>
+
+ </div>  
  
 <!---
 pablooliveirati/pablooliveirati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
