@@ -2,7 +2,7 @@ Hi there 👋, I'm Pablo!
 
 About Me:
 
-- 🌱 I’m currently learning C#.NET | ASP.NET Core MVC | React.js | javascript | CSS | HTML.
+- 🌱 I’m currently learning C# | ASP .NET MVC | ASP .NET Core | React.js | javascript | CSS | HTML.
 - 👀 I’m interested in new opportunities to develop my skills in DEV.
 - My objective is to be a Full Stack developer.
 - 📫 How to reach me https://bityli.com/Zzvl61
