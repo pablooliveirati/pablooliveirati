@@ -5,7 +5,7 @@ About Me:
 - 🌱 I’m currently learning C# | ASP .NET MVC | ASP .NET Core | React.js | javascript | CSS | HTML.
 - 👀 I’m interested in new opportunities to develop my skills in DEV.
 - My objective is to be a Full Stack developer.
-- 📫 How to reach me https://bityli.com/Zzvl61
+- 📫 How to reach me: Linkedin: https://bityli.com/Zzvl61 | E-mail: Pablo.almeida.ti@gmail.com
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablooliveirati&layout=compact&langs_count=7&theme=gotham"/>
 
