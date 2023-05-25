@@ -42,7 +42,7 @@ About Me:
 
  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
  <img align="center" alt="VS code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
- <img align="center" alt="VS code" height="30" width="40" background color: white src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"><br>
+ <img align="center" alt="VS code" height="30" width="40" background color: "white" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"><br>
  
 
  <h3> Visitantes </h3>  
