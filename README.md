@@ -34,8 +34,9 @@ About Me:
  
  <h3> IDE </h3>  
 
- <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
- <img align="center" alt="VS code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"><br><hr>
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="VS code" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg"><br><hr>
  
  
   <h3> Tools </h3>  
